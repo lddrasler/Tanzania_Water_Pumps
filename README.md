@@ -2,8 +2,6 @@
 # 1. Predicting Functional Status of Water Pumps in Tanzania
 
 ### In this project, I will be applying Machine Learning predictor models to make predictions on the functional status of unknown water pumps.
-### The dataset was provide by Driven Data and you are able to find it here:
-#### https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
 # 2. Business Problem
 
@@ -11,9 +9,9 @@
 
 ### The Goal of these predictions is to decreases the overall cost for the Tanzanian Ministry of Water.
 
-# 3. DATA
+# 3. Data
 
-### The data was collected from Driven Data and it is available here:
+#### The data was collected from Driven Data and it is available here:
 
 ### https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
  
