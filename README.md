@@ -1,11 +1,11 @@
 # Tanzania Water Pumps
 # 1. Predicting Functional Status of Water Pumps in Tanzania
 
-### In this project, I will be applying Machine Learning predictor models to make predictions on the functional status of unknown water pumps.
+### In this project, I will apply Machine Learning predictor models to train the classifiers on the known labels and make predictions on the functional status of water pumps with unknown status.
 
 # 2. Business Problem
 
-### The majority access to clean water in Tanzania, it is through Water Pumps. According to 2015 Tanzania Water Point Mapping Data, about 29% of these water points are non-functional. In this project, I will apply Machine Learning predictor models to train the classifiers on the known labels and make predictions on the functional status of water pumps with unknown status.
+### The majority access to clean water in Tanzania, it is through Water Pumps. According to 2015 Tanzania Water Point Mapping Data, about 29% of these water points are non-functional. 
 
 ### The Goal of these predictions is to decreases the overall cost for the Tanzanian Ministry of Water.
 
