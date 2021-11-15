@@ -6,13 +6,13 @@
 
 # 2. Business Problem
 
-### The majority access to clean water in Tanzania, it is through Water Pumps. According to 2015 Tanzania Water Point Mapping Data, about 29% of these water points are non-functional. 
+### The majority access to clean water in Tanzania, it is through Water Pumps. According to 2015 Tanzania Water Point Mapping Data a significant portion of these water points are non-functional. 
 
 ### The Goal of these predictions is to decreases the overall cost for the Tanzanian Ministry of Water.
 
 # 3. Data
 
-### The data was collected from Driven Data and it is available here:
+### These data were collected from Driven Data and it is available here:
 
 ### https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
  
