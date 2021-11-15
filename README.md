@@ -16,7 +16,7 @@
 
 ### https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
  
-### The data has about 59 thousand values and 39 variables.These data were analyzed based on parameters including: 
+### The dataset has about 59 thousand values and 39 variables.These data were analyzed based on parameters including: 
 
 * Construction Year;
 * Funder;
@@ -33,20 +33,19 @@
 * DecisionTreeClassifier
 * AdaBoost
 * GradientBoost
-* Pipeline
-* XGboost
+* XGboost (Final)
 
-### I have also applied the method such as:
+### I have also applied method such as:
 
 * Confusion Matrix 
-* ROC CURVE;
-* Parameter Grid
+* ROC CURVE
+* Parameter Grid Search
 
 # 5. Final Results 
 
 ### After carefully analyzing the results, I decided to use XGboost as my predictor 
 
-#### We got a final technical result as 0.79. For future predictions, we assume that 79% will be accurate on functional Water Pumps status.
+#### We achieved a final prediction accuracy of 0.79 for our test data, indicating predictions of functional status will on average be 79% correct.
 
 # 6. Future Work 
 
